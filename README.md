@@ -53,9 +53,9 @@
 </div>
  
  
- <br/> <br/>
+<div></div>
  ## 📈 GitHub Activity:
- <br/> <br/>
+ <br/> 
 
 
 <div align="center">
