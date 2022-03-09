@@ -45,12 +45,11 @@
 
  <br /> 
 
-<div align="left">
+<div align="left" margin-bottom= "100px">
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=sivasangari03-G&theme=synthwave" alt="sivasangari03-G" width="47%" /> 
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasangari03-G&theme=synthwave" alt="sivasangari03-G" width="47%" />
   </p>
-   <br /> <br /> 
 </div>
  
  <br /><br /> 
