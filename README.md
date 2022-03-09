@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://news.cuna.org/ext/resources/CUMag_2019/2019_03/2019-03_cybersecurity_1200.jpg?t=1552943030&width=1080" width="30%"src="" alt="animatation" />
+  <img src="https://media1.giphy.com/media/paTz7UZbPfTZFRYnnB/200w.webp?cid=ecf05e4769m5c87kl4zxpm8p5pqh4z7z27mauixfkbeizphz&rid=200w.webp&ct=s" width="30%" alt="animatation" />
 </div>
 
 
