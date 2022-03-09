@@ -51,11 +51,10 @@
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasangari03-G&theme=synthwave" alt="sivasangari03-G" width="47%" />
   </p>
 </div>
+  <br /> 
  
- 
-<div></div>
  ## 📈 GitHub Activity:
- <br/> 
+ <br /> 
 
 
 <div align="center">
