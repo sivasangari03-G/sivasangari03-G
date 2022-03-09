@@ -52,11 +52,12 @@
   </p>
 </div>
  
+ <br /> <br /> <br /> <br />
  
 <div align="center">
 <a href="https://github.com/sivasangari03-G/github-readme-activity-graph"><img alt="sivasangari03-G's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sivasangari03-G&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
-  
+   <br /> <br /> <br /> <br />
 <div align="center">
    <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=sivasangari03-G&theme=synthwave" alt="sivasangari03-G" />
 </div>
