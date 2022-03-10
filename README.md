@@ -23,7 +23,7 @@
 </div>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://verti/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-sivasangari03-g.vercel.app/)
 
 ## 🔗 Connect with me:
 <span align="left">
